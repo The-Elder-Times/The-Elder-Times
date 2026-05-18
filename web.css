@@ -3,6 +3,12 @@ header {
 	top: 0;
 	width: 100%;
 	}
+#button_logo {
+	text-align: left;
+	}
+#button_download {
+	text-align: right;
+	}
 main {
 	padding-top: 100px
 	padding-bottom: 100px
@@ -11,4 +17,13 @@ footer {
     position: fixed;
 	bottom: 0;
 	width: 100%;
+	}
+#button_versions {
+	text-align: left;
+	}
+#button_lore {
+	text-align: center;
+	}
+#button_documentation {
+	text-align: right;
 	}
