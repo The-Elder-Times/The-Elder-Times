@@ -1,35 +1,14 @@
 header {
     position: fixed;
 	top: 0;
-	}
-#header_right {
-	width: calc (100%/2);
-	left: calc ((100%/2)-(1*(100%/2)));
-    align-items: right;
-	}
-#header_left {
-	width: calc (100%/2);
-	left: calc ((100%/2)-(0*(100%/2)));
-    align-items: left;
+	width: 100%;
 	}
 main {
-	padding-top: 100px;
-	padding-bottom: 100px;
+	padding-top: 100px
+	padding-bottom: 100px
 	}
 footer {
     position: fixed;
 	bottom: 0;
-    align-items: center;
-	}
-#footer_left {
-	width: calc (100%/3);
-	left: calc ((100%/3)-(2*(100%/3)));
-	}
-#footer_center {
-	width: calc (100%/3);
-	left: calc ((100%/3)-(1*(100%/3)));
-	}
-#footer_right {
-	width: calc (100%/3);
-	left: calc ((100%/3)-(0*(100%/3)));
+	width: 100%;
 	}
