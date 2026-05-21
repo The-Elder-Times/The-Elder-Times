@@ -1,35 +1,29 @@
-#menu_top {
+header {
     position: fixed;
 	top: 0;
+	width: 100%;
 	}
-#header_right {
-	width: calc (100%/2);
-	left: calc ((100%/2)-(2*(100%/2)));
-    align-items: right;
+#button_logo {
+	text-align: left;
 	}
-#header_left {
-	width: calc (100%/2);
-	left: calc ((100%/2)-(1*(100%/2)));
-    align-items: left;
+#button_download {
+	text-align: right;
 	}
 main {
-	padding-top: 100px;
-	padding-bottom: 100px;
+	padding-top: 100px
+	padding-bottom: 100px
 	}
-#menu_bottom {
+footer {
     position: fixed;
 	bottom: 0;
-    align-items: center;
+	width: 100%;
 	}
-#footer_left {
-	width: calc (100%/3);
-	left: calc ((100%/3)-(3*(100%/3)));
+#button_versions {
+	text-align: left;
 	}
-#footer_center {
-	width: calc (100%/3);
-	left: calc ((100%/3)-(3*(100%/3)));
+#button_lore {
+	text-align: center;
 	}
-#footer_right {
-	width: calc (100%/3);
-	left: calc ((100%/3)-(1*(100%/3)));
+#button_documentation {
+	text-align: right;
 	}
