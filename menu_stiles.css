@@ -2,7 +2,7 @@ header {
     position: fixed;
 	top: 0;
 	width: 100%;
-	text-align: center;
+	text-align: justify;
 	}
 main {
 	padding-top: 100px
@@ -13,5 +13,5 @@ footer {
     position: fixed;
 	bottom: 0;
 	width: 100%;
-	text-align: center;
+	text-align: justify;
 	}
