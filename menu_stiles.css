@@ -2,28 +2,16 @@ header {
     position: fixed;
 	top: 0;
 	width: 100%;
-	}
-#button_logo {
-	text-align: left;
-	}
-#button_download {
-	text-align: right;
+	text-align: center;
 	}
 main {
 	padding-top: 100px
 	padding-bottom: 100px
+	text-align: justify;
 	}
 footer {
     position: fixed;
 	bottom: 0;
 	width: 100%;
-	}
-#button_versions {
-	text-align: left;
-	}
-#button_lore {
 	text-align: center;
-	}
-#button_documentation {
-	text-align: right;
 	}
