@@ -8,9 +8,11 @@ header {
 	}
 #button_logo {
 	text-align: left;
+	width: calc (100%/2);
 	}
 #button_download {
 	text-align: right;
+	width: calc (100%/2);
 	}
 main {
 	padding-top: 100px
@@ -28,10 +30,13 @@ footer {
 	}
 #button_versions {
 	text-align: center;
+	width: calc (100%/3);
 	}
 #button_lore {
 	text-align: center;
+	width: calc (100%/3);
 }
 #button_documentation {
 	text-align: center;
+	width: calc (100%/3);
 }
