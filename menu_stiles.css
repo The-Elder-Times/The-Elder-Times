@@ -29,7 +29,7 @@ footer {
 	width: 100%;
 	}
 #button_versions {
-	text-align: center;
+	text-align: left;
 	width: calc (100%/3);
 	}
 #button_lore {
@@ -37,6 +37,6 @@ footer {
 	width: calc (100%/3);
 }
 #button_documentation {
-	text-align: center;
+	text-align: right;
 	width: calc (100%/3);
 }
