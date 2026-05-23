@@ -8,11 +8,11 @@ header {
 	}
 #button_logo {
 	text-align: left;
-	width: calc (100%/2);
+	width: 50%;
 	}
 #button_download {
 	text-align: right;
-	width: calc (100%/2);
+	width: 50%;
 	}
 main {
 	padding-top: 100px;
