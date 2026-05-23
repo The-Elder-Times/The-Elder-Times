@@ -30,13 +30,13 @@ footer {
 	}
 #button_versions {
 	text-align: center;
-	width: calc (100%/3);
+	width: 33%;
 	}
 #button_lore {
 	text-align: center;
-	width: calc (100%/3);
+	width: 33%;
 }
 #button_documentation {
 	text-align: center;
-	width: calc (100%/3);
+	width: 33%;
 }
