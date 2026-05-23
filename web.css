@@ -5,6 +5,7 @@ header {
 	}
 #menu_top {
 	width: 100%;
+	table-layout: fixed;
 	}
 #button_logo {
 	text-align: left;
@@ -27,6 +28,7 @@ footer {
 	}
 #menu_bottom {
 	width: 100%;
+	table-layout: fixed;
 	}
 #button_versions {
 	text-align: center;
