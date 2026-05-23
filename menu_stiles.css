@@ -17,7 +17,7 @@ header {
 main {
 	padding-top: 100px;
 	padding-bottom: 100px;
-	text-align: justify;
+	text-align: right;
 	}
 footer {
     position: fixed;
@@ -29,7 +29,7 @@ footer {
 	width: 100%;
 	}
 #button_versions {
-	text-align: left;
+	text-align: center;
 	width: calc (100%/3);
 	}
 #button_lore {
@@ -37,6 +37,6 @@ footer {
 	width: calc (100%/3);
 }
 #button_documentation {
-	text-align: right;
+	text-align: center;
 	width: calc (100%/3);
 }
