@@ -1,0 +1,10 @@
+fetch("overlay/header.html")
+	.then(response=>response.text())
+	.then(data=>{
+		document.getElementById("import_header").innerHTML=data;
+	})
+fetch("overlay/footer.html")
+    .then(response=>response.text())
+    .then(data=>{
+        document.getElementById("header").innerHTML=data;
+    })
