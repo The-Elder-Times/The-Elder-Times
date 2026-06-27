@@ -1,9 +1,9 @@
-fetch("header.html")
+fetch("resources/overlay/header.html")
 	.then(response=>response.text())
 	.then(data=>{
 		document.getElementById("import_header").innerHTML=data;
 	})
-fetch("footer.html")
+fetch("resources/overlay/footer.html")
     .then(response=>response.text())
     .then(data=>{
         document.getElementById("import_footer").innerHTML=data;
