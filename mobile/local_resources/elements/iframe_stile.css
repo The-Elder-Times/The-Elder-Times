@@ -1,4 +1,5 @@
 #documentations_iframe {
 	width: 100%;
-	height: 75%;
+	height: 75vh;
+	border: 5px inset rgb(218,165,32) rgb(184,134,11);
 	}
