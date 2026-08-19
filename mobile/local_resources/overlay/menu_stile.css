@@ -16,6 +16,10 @@ header {
 	text-align: right;
 	width: calc (100%/2);
 	}
+main {
+	padding-top: 10vh;
+	padding-bottom: 10vh;
+	}
 footer {
     position: fixed;
 	bottom: 0;
