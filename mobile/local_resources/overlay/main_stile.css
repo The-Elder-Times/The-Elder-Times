@@ -1,8 +1,7 @@
 body {
 	margin: 0px;
+	font-size: 1vh;
 	}
 main {
-	padding-top: 10vh;
-	padding-bottom: 10vh;
 	text-align: justify;
 	}
