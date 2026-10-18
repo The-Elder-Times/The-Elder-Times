@@ -7,15 +7,15 @@ header {
 	width: 100%;
 	height: 10vh;
 	table-layout: fixed;
-	bgcolor: rgba (25, 25, 25, 0.95)
+	background-color: rgba(25, 25, 25, 0.95);
 	}
 #button_logo {
 	text-align: left;
-	width: calc (100%/2);
+	width: calc(100%/2);
 	}
 #button_download {
 	text-align: right;
-	width: calc (100%/2);
+	width: calc(100%/2);
 	}
 main {
 	padding-top: 10vh;
@@ -30,17 +30,17 @@ footer {
 	width: 100%;
 	height: 10vh;
 	table-layout: fixed;
-	bgcolor: rgba (25, 25, 25, 0.95)
+	background-color: rgba(25, 25, 25, 0.95);
 	}
 #button_versions {
 	text-align: center;
-	width: calc (100%/3);
+	width: calc(100%/3);
 	}
 #button_lores {
 	text-align: center;
-	width: calc (100%/3);
+	width: calc(100%/3);
 }
 #button_documentations {
 	text-align: center;
-	width: calc (100%/3);
+	width: calc(100%/3);
 }
